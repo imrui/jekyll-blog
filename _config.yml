@@ -116,6 +116,6 @@ baidu_search:
   site: http://zhannei.baidu.com/cse/search
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, Python, Golang, C, lua, MySQL, Android, Linux, Nginx]
-skill_j2ee_keywords: [Spring, SpringMVC, MyBatis, Struts, Play Framework, JSP, Velocity]
-skill_web_keywords: [Tornado, Flask, Django, AngularJS, Boostrap, HTML, CSS, JS, JQuery, Ajax]
+skill_software_keywords: [Java, Python, Golang, Nginx, lua, MySQL, Linux, Android, Node.js, Spring]
+#skill_j2ee_keywords: [Spring, SpringMVC, MyBatis, Struts, Play Framework, JSP, Velocity]
+skill_web_keywords: [AngularJS, Boostrap, SpringMVC, Tornado, Flask, Django, Play Framework]
