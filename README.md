@@ -1,4 +1,4 @@
-# 董瑞博客 [http://www.imrui.net](http://www.imrui.net)
+## Jekyll-blog
 
 基于Jekyll制作的个人博客网站，支持RSS订阅。
 
